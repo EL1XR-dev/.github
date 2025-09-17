@@ -1,7 +1,4 @@
-# IZERO Nexus
-
-**Integrated Zero-carbon Energy Resource Orchestration for Smart Energy Systems**
-
+> **IZERO Nexus** — An independent, community-driven platform of open tools to **plan, operate, and secure zero-carbon energy systems**.
 ---
 
 ## Overview
