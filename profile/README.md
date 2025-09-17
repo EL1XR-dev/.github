@@ -1,4 +1,4 @@
-> **IZERO Nexus** — An independent, community-driven platform of open tools to **plan, operate, and secure zero-carbon energy systems**.
+> **IZERO-Nexus** — An independent, community-driven platform of open tools to **plan, operate, and secure zero-carbon energy systems**.
 ---
 
 ## Overview
