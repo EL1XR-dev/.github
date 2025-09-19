@@ -4,7 +4,7 @@
 > **4E** → Energy
 ---
 
-## Overview
+# Overview
 
 **VY4E** is an **open, modular ecosystem of analytical tools** for modelling, planning, and operating **zero-carbon energy systems**.  
 It provides a shared foundation to support **data-driven policy analysis, market design, and decision-making** in the energy transition — with a focus on electricity systems and their coupling with other vectors such as **heat, hydrogen, and storage**.  
