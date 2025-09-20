@@ -18,7 +18,7 @@ We welcome contributions from academia, research institutes, system operators, a
 
 ---
 
-# Hub for
+# Hub
 - ✅ Open models & solvers (Python/Julia) with clean APIs and docs
 - 📦 Datasets & scenario kits with transparent provenance
 - 📚 Reproducible studies (papers, notebooks, and benchmarks)
