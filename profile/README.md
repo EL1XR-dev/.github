@@ -18,19 +18,4 @@ We welcome contributions from academia, research institutes, system operators, a
 
 ---
 
-# Hub
-- ✅ Open models & solvers (Python/Julia) with clean APIs and docs
-- 📦 Datasets & scenario kits with transparent provenance
-- 📚 Reproducible studies (papers, notebooks, and benchmarks)
-- 🛠️ Decision support for planners, operators, and regulators
-
----
-
-# Impact & alignment
-VY4E supports the **United Nations Sustainable Development Goals**, in particular:  
-- **Goal 7: Affordable and Clean Energy**  
-- **Goal 13: Climate Action**  
-
----
-
 ✨ Follow this organisation on GitHub to stay updated on new tools, datasets, and releases.  
