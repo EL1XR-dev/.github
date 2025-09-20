@@ -1,5 +1,5 @@
-> **VY4E** (Vision for Energy) is an independent, community-driven platform of open tools to **plan, operate, and secure zero-carbon energy systems**.
-
+> **VY4E** (Vision for Energy) is a research & innovation banner for designing, optimizing, and governing future-proof energy systems—grounded in models, open tools, and real-world impact.
+>
 > **VY** → Vision (from Swedish *vy*, foresight, perspective)  
 > **4E** → Energy
 ---
