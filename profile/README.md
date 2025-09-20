@@ -1,6 +1,6 @@
->**VY4E** is an open, modelling-first initiative that **designs, optimises, and governs future-proof, multi-vector energy systems**—delivering **open models, market insights, and deployab
->**VY** → Vision (from Swedish vy: view, foresight, perspective)
->**4E** → Our guiding pillars: **Energy, Efficiency, Economics, Equity**
+>**VY4E** is an open, modelling-first initiative that **designs, optimises, and governs future-proof, multi-vector energy systems**—delivering **open models, market insights, and deployable solutions** with real-world impact.
+>- **VY** → Vision (from Swedish vy: view, foresight, perspective)
+>- **4E** → Our guiding pillars: **Energy, Efficiency, Economics, Equity**
 ---
 
 # Overview
