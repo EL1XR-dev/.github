@@ -1,23 +1,32 @@
-> **VY4E** (Vision for Energy) is a research & innovation banner for designing, optimizing, and governing future-proof energy systems—grounded in models, open tools, and real-world impact.
->
-> **VY** → Vision (from Swedish *vy*, foresight, perspective)  
-> **4E** → Energy
+>**VY4E** is an open, modelling-first initiative that **designs, optimises, and governs future-proof, multi-vector energy systems**—delivering **open models, market insights, and deployab
+>**VY** → Vision (from Swedish vy: view, foresight, perspective)
+>**4E** → Our guiding pillars: **Energy, Efficiency, Economics, Equity**
 ---
 
 # Overview
+**VY4E** is an **open, modular ecosystem** of analytical tools for **modelling, planning, and operating zero-carbon energy systems**.
+We provide a shared foundation for **data-driven policy analysis, market design, and decision-making**, focusing on electricity systems and their coupling with **heat, hydrogen, and mobility**.
 
-**VY4E** is an **open, modular ecosystem of analytical tools** for modelling, planning, and operating **zero-carbon energy systems**.  
-It provides a shared foundation to support **data-driven policy analysis, market design, and decision-making** in the energy transition — with a focus on electricity systems and their coupling with other vectors such as **heat, hydrogen, and storage**.  
+Using methods from **mathematical optimisation, statistics, and computational science**, we build general-purpose tools for:  
 
-By employing techniques from **mathematical optimisation, statistics, and computational science**, VY4E collect general-purpose tools for:  
+- ⚡**Strategic planning** – generation & transmission expansion, adequacy, investment analysis
+- 🛠**Operation & Market** – day-ahead, reserves, flow-based coupling, AC/DC power flows, flexibility integration (BESS, H₂, DSM, EV/V2G)  
+- 🎲**Risk and uncertainty** – stochastic optimisation, Monte-Carlo stress testing, robust decisions under extreme conditions
 
-- ⚡**Strategic planning** – generation and transmission expansion, adequacy assessment, investment analysis  
-- 🛠**Tactical operation** – market clearing, operational reserves, AC/DC power flows, flexibility integration  
-- 🎲**Risk and uncertainty** – stochastic optimisation, Monte Carlo stress testing, robust decision-making under extreme conditions  
+**VY4E* is an **independent, community-driven** effort and a **neutral hub for open-source energy-system research**.
+We welcome contributions from academia, research institutes, system operators, and industry partners.
 
-VY4E is an **independent, community-driven initiative**, created to serve as a **neutral hub for open-source energy system research**.  
-It welcomes contributions from academic institutions, research centers, and industry partners worldwide.  
+---
 
+# What we ship
+- ✅ Open models & solvers (Python/Julia) with clean APIs and docs
+- 📦 Datasets & scenario kits with transparent provenance
+- 📚 Reproducible studies (papers, notebooks, and benchmarks)
+- 🛠️ Decision support for planners, operators, and regulators
+
+---
+
+# Impact & alignment
 VY4E supports the **United Nations Sustainable Development Goals**, in particular:  
 - **Goal 7: Affordable and Clean Energy**  
 - **Goal 13: Climate Action**  
