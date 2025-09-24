@@ -12,7 +12,7 @@ Using methods from **mathematical optimisation, statistics, and computational sc
 - 🛠**Operation & Market** – day-ahead, reserves, flow-based coupling, AC/DC power flows, flexibility integration (BESS, H₂, DSM, EV/V2G)  
 - 🎲**Risk and uncertainty** – stochastic optimisation, Monte-Carlo stress testing, robust decisions under extreme conditions
 
-**EL1XR* is an **independent, community-driven** effort and a **neutral hub for open-source energy-system research**.
+**EL1XR** is an **independent, community-driven** effort and a **neutral hub for open-source energy-system research**.
 We welcome contributions from academia, research institutes, system operators, and industry partners.
 
 ---
